@@ -1,0 +1,17 @@
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\bin\Debug\net8.0\MiniApp.Infrastructure.deps.json
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\bin\Debug\net8.0\MiniApp.Infrastructure.runtimeconfig.json
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\bin\Debug\net8.0\MiniApp.Infrastructure.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\bin\Debug\net8.0\MiniApp.Infrastructure.pdb
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\bin\Debug\net8.0\MiniApp.Core.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\bin\Debug\net8.0\MiniApp.Core.pdb
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\MiniApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\MiniApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\MiniApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\MiniApp.Infrastructure.AssemblyInfo.cs
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\MiniApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\MiniApp..91E106E5.Up2Date
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\MiniApp.Infrastructure.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\refint\MiniApp.Infrastructure.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\MiniApp.Infrastructure.pdb
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\MiniApp.Infrastructure.genruntimeconfig.cache
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Infrastructure\obj\Debug\net8.0\ref\MiniApp.Infrastructure.dll

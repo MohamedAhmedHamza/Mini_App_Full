@@ -1,0 +1,17 @@
+[
+  {
+    "Username": "admin",
+    "PasswordHash": "123456",
+    "Role": "Admin"
+  },
+  {
+    "Username": "assistant",
+    "PasswordHash": "123456",
+    "Role": "Assistant"
+  },
+  {
+    "Username": "user1",
+    "PasswordHash": "123456",
+    "Role": "User"
+  }
+]

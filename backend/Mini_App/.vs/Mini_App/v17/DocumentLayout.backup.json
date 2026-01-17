@@ -1,0 +1,900 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ascom\\source\\repos\\Mini_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|solutionrelative:miniapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|solutionrelative:miniapp.api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|solutionrelative:miniapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.api\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|solutionrelative:miniapp.api\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|solutionrelative:miniapp.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|solutionrelative:miniapp.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.service\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|solutionrelative:miniapp.service\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.service\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|solutionrelative:miniapp.service\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|solutionrelative:miniapp.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.service\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|solutionrelative:miniapp.service\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.service\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|solutionrelative:miniapp.service\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.service\\iservices\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|solutionrelative:miniapp.service\\iservices\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.service\\iservices\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|solutionrelative:miniapp.service\\iservices\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.service\\iservices\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|solutionrelative:miniapp.service\\iservices\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|solutionrelative:miniapp.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|solutionrelative:miniapp.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.infrastructure\\migrations\\20251224220210_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|solutionrelative:miniapp.infrastructure\\migrations\\20251224220210_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.infrastructure\\dataseed\\tickets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|solutionrelative:miniapp.infrastructure\\dataseed\\tickets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.infrastructure\\data\\context\\appdbcontextdataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|solutionrelative:miniapp.infrastructure\\data\\context\\appdbcontextdataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.infrastructure\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|solutionrelative:miniapp.infrastructure\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\specifications\\ticketspecifications\\ticketswithfiltersspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\specifications\\ticketspecifications\\ticketswithfiltersspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\mapping\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\mapping\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\mapping\\ticeketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\mapping\\ticeketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\enum\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\enum\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\dtos\\ticketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\dtos\\ticketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\configrations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\configrations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\configrations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\configrations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|solutionrelative:miniapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.service\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D0677C-1FD5-4DCA-9BF7-446D0BFFFA2F}|MiniApp.Service\\MiniApp.Service.csproj|solutionrelative:miniapp.service\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|solutionrelative:miniapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|solutionrelative:miniapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Migrations\\20251224215903_UpdateSomeThing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniApp.Infrastructure\\Migrations\\20251224215903_UpdateSomeThing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F74B97-087A-4DBD-A8EA-7B5CF4F0AB3E}|MiniApp.API\\MiniApp.API.csproj|solutionrelative:miniapp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.infrastructure\\miniapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|solutionrelative:miniapp.infrastructure\\miniapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.infrastructure\\dataseed\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AB35249-9841-4BC6-ABBD-3F5B2CFFF3AA}|MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj|solutionrelative:miniapp.infrastructure\\dataseed\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Migrations\\20251220195403_UpdateEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniApp.Infrastructure\\Migrations\\20251220195403_UpdateEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|c:\\users\\ascom\\source\\repos\\mini_app\\miniapp.core\\miniapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E9877D1-4CBF-446E-80E7-C08E2793C8D5}|MiniApp.Core\\MiniApp.Core.csproj|solutionrelative:miniapp.core\\miniapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mini_Project\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Controllers\\TicketController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mini_Project\\Controllers\\TicketController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mini_Project\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mini_Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "MiniApp.Service\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\Services\\JwtService.cs",
+              "RelativeToolTip": "MiniApp.Service\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T23:08:36.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "MiniApp.Service\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\Services\\TicketService.cs*",
+              "RelativeToolTip": "MiniApp.Service\\Services\\TicketService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:11:10.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MiniApp.Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "MiniApp.Service\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:10:10.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MiniApp.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MiniApp.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:52:53.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssistantController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Controllers\\AssistantController.cs",
+              "RelativeDocumentMoniker": "MiniApp.API\\Controllers\\AssistantController.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Controllers\\AssistantController.cs",
+              "RelativeToolTip": "MiniApp.API\\Controllers\\AssistantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:53:09.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MiniApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MiniApp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:52:22.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "MiniApp.API\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Controllers\\TicketsController.cs*",
+              "RelativeToolTip": "MiniApp.API\\Controllers\\TicketsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:52:38.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MiniApp.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MiniApp.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:22:55.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MiniApp.Service\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\Services\\AuthService.cs",
+              "RelativeToolTip": "MiniApp.Service\\Services\\AuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:55:19.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "MiniApp.Service\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\Services\\AdminService.cs",
+              "RelativeToolTip": "MiniApp.Service\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:55:28.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "MiniApp.Service\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\IServices\\IUserService.cs",
+              "RelativeToolTip": "MiniApp.Service\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:08:55.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\IServices\\ITicketService.cs",
+              "RelativeDocumentMoniker": "MiniApp.Service\\IServices\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\IServices\\ITicketService.cs*",
+              "RelativeToolTip": "MiniApp.Service\\IServices\\ITicketService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:09:27.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\IServices\\IJwtService.cs",
+              "RelativeDocumentMoniker": "MiniApp.Service\\IServices\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\IServices\\IJwtService.cs",
+              "RelativeToolTip": "MiniApp.Service\\IServices\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T23:09:50.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\IServices\\IAdminService.cs",
+              "RelativeDocumentMoniker": "MiniApp.Service\\IServices\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\IServices\\IAdminService.cs",
+              "RelativeToolTip": "MiniApp.Service\\IServices\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:54:12.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MiniApp.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\UnitOfWork\\UnitOfWork.cs*",
+              "RelativeToolTip": "MiniApp.Infrastructure\\UnitOfWork\\UnitOfWork.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:05:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MiniApp.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Repositories\\GenericRepository.cs*",
+              "RelativeToolTip": "MiniApp.Infrastructure\\Repositories\\GenericRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:04:24.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251224220210_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Migrations\\20251224220210_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MiniApp.Infrastructure\\Migrations\\20251224220210_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Migrations\\20251224220210_InitialCreate.cs",
+              "RelativeToolTip": "MiniApp.Infrastructure\\Migrations\\20251224220210_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:02:10.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tickets.json",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\DataSeed\\Tickets.json",
+              "RelativeDocumentMoniker": "MiniApp.Infrastructure\\DataSeed\\Tickets.json",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\DataSeed\\Tickets.json",
+              "RelativeToolTip": "MiniApp.Infrastructure\\DataSeed\\Tickets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T20:35:07.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDBContextDataSeed.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Data\\Context\\AppDBContextDataSeed.cs",
+              "RelativeDocumentMoniker": "MiniApp.Infrastructure\\Data\\Context\\AppDBContextDataSeed.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Data\\Context\\AppDBContextDataSeed.cs*",
+              "RelativeToolTip": "MiniApp.Infrastructure\\Data\\Context\\AppDBContextDataSeed.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:25:07.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MiniApp.Infrastructure\\Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "MiniApp.Infrastructure\\Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:04:00.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Specifications\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Specifications\\ISpecification.cs*",
+              "RelativeToolTip": "MiniApp.Core\\Specifications\\ISpecification.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T19:48:01.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Specifications\\BaseSpecification.cs*",
+              "RelativeToolTip": "MiniApp.Core\\Specifications\\BaseSpecification.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T19:47:49.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TicketsWithFiltersSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Specifications\\TicketSpecifications\\TicketsWithFiltersSpecification.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Specifications\\TicketSpecifications\\TicketsWithFiltersSpecification.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Specifications\\TicketSpecifications\\TicketsWithFiltersSpecification.cs*",
+              "RelativeToolTip": "MiniApp.Core\\Specifications\\TicketSpecifications\\TicketsWithFiltersSpecification.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T19:48:26.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Mapping\\UserProfile.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Mapping\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Mapping\\UserProfile.cs*",
+              "RelativeToolTip": "MiniApp.Core\\Mapping\\UserProfile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:44:23.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TiceketProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Mapping\\TiceketProfile.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Mapping\\TiceketProfile.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Mapping\\TiceketProfile.cs*",
+              "RelativeToolTip": "MiniApp.Core\\Mapping\\TiceketProfile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T19:17:28.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUnitOFWork.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Interfaces\\IUnitOFWork.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Interfaces\\IUnitOFWork.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Interfaces\\IUnitOFWork.cs*",
+              "RelativeToolTip": "MiniApp.Core\\Interfaces\\IUnitOFWork.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:01:15.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "MiniApp.Core\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:01:04.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Enum\\UserRole.cs",
+              "RelativeToolTip": "MiniApp.Core\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T22:58:48.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Enum\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Enum\\TicketStatus.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Enum\\TicketStatus.cs",
+              "RelativeToolTip": "MiniApp.Core\\Enum\\TicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T22:59:24.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Entities\\User.cs*",
+              "RelativeToolTip": "MiniApp.Core\\Entities\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T19:57:38.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Entities\\Ticket.cs*",
+              "RelativeToolTip": "MiniApp.Core\\Entities\\Ticket.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:00:18.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "MiniApp.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T19:59:57.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "MiniApp.Core\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T19:58:46.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "MiniApp.Core\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:02:18.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TicketResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\DTOs\\TicketResponseDto.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\DTOs\\TicketResponseDto.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\DTOs\\TicketResponseDto.cs",
+              "RelativeToolTip": "MiniApp.Core\\DTOs\\TicketResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:12:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TicketDto.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\DTOs\\TicketDto.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\DTOs\\TicketDto.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\DTOs\\TicketDto.cs*",
+              "RelativeToolTip": "MiniApp.Core\\DTOs\\TicketDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:42:24.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Configrations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Configrations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Configrations\\UserConfiguration.cs",
+              "RelativeToolTip": "MiniApp.Core\\Configrations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:37:14.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TicketConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Configrations\\TicketConfiguration.cs",
+              "RelativeDocumentMoniker": "MiniApp.Core\\Configrations\\TicketConfiguration.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\Configrations\\TicketConfiguration.cs*",
+              "RelativeToolTip": "MiniApp.Core\\Configrations\\TicketConfiguration.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:37:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "MiniApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\Program.cs",
+              "RelativeToolTip": "MiniApp.API\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwGwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:45:25.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "MiniApp.Service\\IServices\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Service\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "MiniApp.Service\\IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:53:46.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\appsettings.json",
+              "RelativeToolTip": "MiniApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T19:32:08.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MiniApp.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\appsettings.Development.json",
+              "RelativeToolTip": "MiniApp.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T19:27:15.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251224215903_UpdateSomeThing.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Migrations\\20251224215903_UpdateSomeThing.cs",
+              "RelativeDocumentMoniker": "MiniApp.Infrastructure\\Migrations\\20251224215903_UpdateSomeThing.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Migrations\\20251224215903_UpdateSomeThing.cs",
+              "RelativeToolTip": "MiniApp.Infrastructure\\Migrations\\20251224215903_UpdateSomeThing.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T21:59:03.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MiniApp.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.API\\WeatherForecast.cs",
+              "RelativeToolTip": "MiniApp.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:12:43.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MiniApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj",
+              "RelativeToolTip": "MiniApp.Infrastructure\\MiniApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T21:25:03.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Users.json",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\DataSeed\\Users.json",
+              "RelativeDocumentMoniker": "MiniApp.Infrastructure\\DataSeed\\Users.json",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\DataSeed\\Users.json",
+              "RelativeToolTip": "MiniApp.Infrastructure\\DataSeed\\Users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T20:34:41.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20251220195403_UpdateEntities.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Migrations\\20251220195403_UpdateEntities.cs",
+              "RelativeDocumentMoniker": "MiniApp.Infrastructure\\Migrations\\20251220195403_UpdateEntities.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Infrastructure\\Migrations\\20251220195403_UpdateEntities.cs",
+              "RelativeToolTip": "MiniApp.Infrastructure\\Migrations\\20251220195403_UpdateEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T19:54:03.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MiniApp.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\MiniApp.Core.csproj",
+              "RelativeDocumentMoniker": "MiniApp.Core\\MiniApp.Core.csproj",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\MiniApp.Core\\MiniApp.Core.csproj",
+              "RelativeToolTip": "MiniApp.Core\\MiniApp.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T21:26:13.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Mini_Project\\Controllers\\AuthController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:08:52.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Mini_Project\\Controllers\\UsersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:05:53.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Mini_Project\\Controllers\\TicketController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:05:28.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Mini_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Mini_App\\Mini_Project\\Program.cs",
+              "RelativeToolTip": "Mini_Project\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:06:33.536Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

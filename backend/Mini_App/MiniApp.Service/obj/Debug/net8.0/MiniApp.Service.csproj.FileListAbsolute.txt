@@ -1,0 +1,17 @@
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\bin\Debug\net8.0\MiniApp.Service.deps.json
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\bin\Debug\net8.0\MiniApp.Service.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\bin\Debug\net8.0\MiniApp.Service.pdb
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\bin\Debug\net8.0\MiniApp.Core.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\bin\Debug\net8.0\MiniApp.Infrastructure.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\bin\Debug\net8.0\MiniApp.Infrastructure.pdb
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\bin\Debug\net8.0\MiniApp.Core.pdb
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\obj\Debug\net8.0\MiniApp.Service.csproj.AssemblyReference.cache
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\obj\Debug\net8.0\MiniApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\obj\Debug\net8.0\MiniApp.Service.AssemblyInfoInputs.cache
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\obj\Debug\net8.0\MiniApp.Service.AssemblyInfo.cs
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\obj\Debug\net8.0\MiniApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\obj\Debug\net8.0\MiniApp..4428C2B1.Up2Date
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\obj\Debug\net8.0\MiniApp.Service.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\obj\Debug\net8.0\refint\MiniApp.Service.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\obj\Debug\net8.0\MiniApp.Service.pdb
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Service\obj\Debug\net8.0\ref\MiniApp.Service.dll

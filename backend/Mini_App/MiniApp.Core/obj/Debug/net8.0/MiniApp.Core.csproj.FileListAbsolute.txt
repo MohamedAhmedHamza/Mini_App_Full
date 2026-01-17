@@ -1,0 +1,12 @@
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\bin\Debug\net8.0\MiniApp.Core.deps.json
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\bin\Debug\net8.0\MiniApp.Core.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\bin\Debug\net8.0\MiniApp.Core.pdb
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\obj\Debug\net8.0\MiniApp.Core.csproj.AssemblyReference.cache
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\obj\Debug\net8.0\MiniApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\obj\Debug\net8.0\MiniApp.Core.AssemblyInfoInputs.cache
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\obj\Debug\net8.0\MiniApp.Core.AssemblyInfo.cs
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\obj\Debug\net8.0\MiniApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\obj\Debug\net8.0\MiniApp.Core.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\obj\Debug\net8.0\refint\MiniApp.Core.dll
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\obj\Debug\net8.0\MiniApp.Core.pdb
+C:\Users\ascom\source\repos\Mini_App\MiniApp.Core\obj\Debug\net8.0\ref\MiniApp.Core.dll
